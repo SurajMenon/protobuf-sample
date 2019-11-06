@@ -1,0 +1,3 @@
+1. build to generate the java files from proto
+	- This creates the files under io.proto
+2. Run the code
